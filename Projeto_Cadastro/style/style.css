@@ -1,0 +1,34 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #8a6d6d;
+}
+
+h2 {
+    text-align: center;
+    margin-top: 50px;
+    color: #fff;
+}
+
+hr {
+    margin: 20px 0;
+}
+
+a {
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    color: #fff;
+    background-color: #023469;
+    padding: 10px;
+    margin: 50px auto;/*Margin do topo*/
+    width: 200px;
+    border-radius: 9px;
+    margin-left: 140px;
+
+
+}
+
+a:hover {
+    background-color: #031120;
+    
+}

@@ -1,0 +1,72 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #8a6d6d;
+    margin: 0;
+    padding: 20px;
+}
+a {
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    color: #fff;
+    background-color: #023469;
+    padding: 10px;
+    width: 200px;
+    border-radius: 9px;
+   
+
+
+}
+
+a:hover {
+    background-color: #031120;
+    
+}
+
+h1, h3 {
+    text-align: center;
+    color: #fff;
+}
+
+form {
+    margin-top: 20px;
+}
+
+label {
+   color: #fff;
+    display: block;
+    font-weight: bold;
+    float: left;
+    width: 150px; /* Ajuste a largura do rótulo conforme necessário */
+    margin-right: 10px;
+    margin-left: 220px;
+}
+
+input[type="text"],
+textarea {
+    width: 500px; /* Defina o valor desejado para a largura */
+    padding: 8px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 14px;
+    display: block;
+   
+}
+
+input[type="submit"] {
+    padding: 10px 20px;
+    background-color: #023469;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-left: 50%;
+    font-size: 16px;
+}
+
+hr {
+    border: none;
+    border-top: 1px solid #ccc;
+    margin: 20px 0;
+}
